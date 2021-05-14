@@ -1,0 +1,24 @@
+{
+  "name": "notion-logs",
+  "version": "1.0.0",
+  "description": "Notion API for application logging",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu2301/Notion-Logs.git"
+  },
+  "keywords": [
+    "Notion",
+    "Logs"
+  ],
+  "author": "Mathieu Colmon",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
