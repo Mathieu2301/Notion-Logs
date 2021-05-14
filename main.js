@@ -49,9 +49,9 @@ module.exports = (config) => {
   const logTypes = {
     LOG: 'Log',
     INFO: 'Info',
-    SUCCESS: 'success',
-    WARNING: 'warning',
-    ERROR: 'error',
+    SUCCESS: 'Success',
+    WARNING: 'Warning',
+    ERROR: 'Error',
   };
 
   /**
