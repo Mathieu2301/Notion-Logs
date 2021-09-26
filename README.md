@@ -42,6 +42,4 @@ notionLogs('LOG', [], 'Test', {
 
 ___
 ## Problems
-
- If you have errors in console or unwanted behavior, just reload the page.
- If the problem persists, please create an issue [here](https://github.com/Mathieu2301/Notion-Logs/issues).
+ If you have errors in console or unwanted behavior, please create an issue [here](https://github.com/Mathieu2301/Notion-Logs/issues).
